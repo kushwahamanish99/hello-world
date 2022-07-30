@@ -49,7 +49,7 @@ hr {
 <body>  
 <form>  
   <div class="container">  
-  <center>  <h1> Employee Registeration Form</h1> </center>  
+  <center>  <h1> Student Registeration Form</h1> </center>  
   <hr>  
   <label> Firstname </label>   
 <input type="text" name="firstname" placeholder= "Firstname" size="15" required />   
@@ -100,4 +100,4 @@ Current Address :
     <button type="submit" class="registerbtn">Register</button>    
 </form>  
 </body>  
-</html>
+</html>  
